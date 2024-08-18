@@ -1,0 +1,23 @@
+Name,Year,Department,Grade,Attendance Rate,Hosteler
+Aarav,2,ComputerScience,85,90,Yes
+Sita,3,Business,,85,No
+Raj,1,Law,92,95,Yes
+Priya,4,Mathematics,88,80,No
+Naveen,,Integrated,74,,Yes
+Ananya,3,ComputerScience,,85,No
+Kiran,1,Medicine,90,92,Yes
+Lakshmi,,Psychology,81,,No
+Kabir,4,Economics,,76,No
+Saanvi,3,ComputerScience,89,,Yes
+Arjun,,Engineering,82,,No
+Meera,3,Arts,91,,Yes
+Aditya,1,Architecture,,80,No
+Rani,4,Engineering,,70,Yes
+Kumar,2,Integrated,78,,No
+Riya,3,Mathematics,,82,Yes
+Vijay,1,Medicine,,90,Yes
+Nisha,4,Physics,,85,No
+Rahul,,Economics,,80,Yes
+Isha,3,Psychology,79,,No
+Neel,1,Arts,,85,Yes
+Sonia,4,ComputerScience,,90,No
